@@ -2,44 +2,44 @@
 
 latihan1
 
-![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/1.PNG)
+![alt text](https://github.com/anisanisah05/praktikum3/blob/master/latihan1.PNG)
 
-latihan1
+latihan2
 
-![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/1.PNG)
+![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/latihan2.PNG)
 
-latihan1
+latihan3
 
-![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/1.PNG)
+![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/latihan3.PNG)
 
-latihan1
+latihan4
 
-![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/1.PNG)
+![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/latihan4.PNG)
 
-latihan1
+latihan5
 
-![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/1.PNG)
+![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/latihan5.PNG)
 
-latihan1
+latihan6
 
-![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/1.PNG)
+![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/latihan6.PNG)
 
-latihan1
+tugas login
 
-![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/1.PNG)
+![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/tugas.PNG)
 
-latihan1
+contoh input benar
 
-![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/1.PNG)
+![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/tugas1.PNG)
 
-latihan1
+hasil benar
 
-![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/1.PNG)
+![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/tugas1a.PNG)
 
-latihan1
+contoh input salah
 
-![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/1.PNG)
+![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/tugas2.PNG)
 
-latihan1
+hasil salah
 
-![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/1.PNG)
+![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/tugas2a.PNG)
